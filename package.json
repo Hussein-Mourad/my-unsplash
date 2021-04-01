@@ -1,0 +1,27 @@
+{
+  "name": "my-unsplash",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.bundle.js",
+    "build": "webpack",
+    "dev": "nodemon ./bin/www"
+  },"engines": {
+    "node": "v14.15.4"
+  },
+  "dependencies": {
+    "debug": "^2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "http-errors": "^1.6.3",
+    "mongoose": "^5.12.2",
+    "morgan": "^1.9.1",
+    "probe-image-size": "^7.0.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7",
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
