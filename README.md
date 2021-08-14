@@ -65,16 +65,16 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Hussein-Mourad/devchallenges
-
-# change directory
-$ cd /Fullstack/my-unsplash/server/
+$ git clone https://github.com/Hussein-Mourad/my-unsplash
 
 # Install dependencies
-$ npm install
+$ npm install; cd client; npm install
 
-# Run the app
-$ npm start
+# Run the server 
+$ npm run dev:server 
+
+# Run the client
+npm run dev:client
 ```
 
 
