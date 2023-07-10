@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://unsplash-clone-app.herokuapp.com/">
+    <a href="https://unsplash-clone-43mv.onrender.com">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Hussein-Mourad/devchallenges/tree/main/Fullstack/my-unsplash">
+    <a href="https://github.com/Hussein-Mourad/my-unsplash">
       Solution
     </a>
     <span> | </span>
